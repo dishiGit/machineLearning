@@ -2,6 +2,11 @@
 
 ## To run the code
 
+First clone this project:
+`git clone https://github.com/dishiGit/machineLearning.git`
+Navigate to the folder 'all' to run the algorithms.
+Bellow are instructions to run each algorithm.
+
 ### Preprocess image data & baseline
 
 ### Backpropagation NN
