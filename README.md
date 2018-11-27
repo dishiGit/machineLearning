@@ -34,7 +34,7 @@ Jupyter Notebook is also needed in the new environment
 
 `conda install jupyter`
 
-Then just launch the jupyter notebook and run it as any other notebook
+Then just launch Keras.ipynb and run it as any other jupyter notebook
 
 ## Authors
 
