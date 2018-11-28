@@ -11,7 +11,7 @@ Navigate to the folder 'all' to run the algorithms.
 Bellow are instructions to run each algorithm.
 
 ### Preprocess image data & baseline
-
+Run file preprocess_and_baselinesvm.ipny cell by cell.
 ### Backpropagation NN
 
 Run file backPropagation.ipynb cell by cell.
